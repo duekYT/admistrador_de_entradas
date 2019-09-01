@@ -5,7 +5,7 @@
  */
 package modelo;
 
-import conexionBaseDatos.conexionBaseDatos;
+import conexionbaseDatos.conexionBaseDatos;
 import java.sql.Connection;
 import java.sql.*;
 import java.sql.SQLException;
